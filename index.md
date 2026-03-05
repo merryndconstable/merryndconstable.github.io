@@ -1,16 +1,36 @@
-# Merryn Constable
+---
+layout: home
+title: TACO Lab
+---
 
-Assistant Professor of Psychology  
-Northumbria University
+# TACO Lab
+**Thinking and Acting in Context**
 
-## Research
+Northumbria University | School of Psychology
 
-My research investigates cognition in collaborative contexts, including:
+The TACO Lab studies how thinking and action are shaped by context.  
+We investigate how physical, social, and psychological environments influence cognition, perception, and behaviour.
 
+Our research sits at the intersection of:
+
+- Situated cognition
 - Psychological ownership
 - Joint action
-- Research collaboration
+- Applied cognitive psychology
 
-## Lab
+---
 
-Information about students, collaborators, and opportunities will appear here.
+## Our Values
+
+- Curiosity
+- Rigour
+- Inclusivity
+- Kindness
+- Honesty
+
+---
+
+## Join the Lab
+
+We welcome students interested in cognition, collaboration, and real-world research.  
+Information about opportunities can be found on the **Join the Lab** page.
