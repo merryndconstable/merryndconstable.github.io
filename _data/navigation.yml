@@ -1,0 +1,18 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Research"
+    url: /research/
+
+  - title: "People"
+    url: /people/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Join the Lab"
+    url: /join/
+
+  - title: "Handbook"
+    url: /handbook/
