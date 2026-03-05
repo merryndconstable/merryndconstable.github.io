@@ -1,6 +1,10 @@
 ---
-layout: home
-title: HOME
+layout: splash
+title: ""
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  caption: "TACO Lab"
 ---
 
 # Thinking and Acting in Context
