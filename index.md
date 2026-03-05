@@ -1,7 +1,6 @@
 ---
 layout: splash
 title: "Thinking and Acting in Context"
-excerpt: "Northumbria University | School of Psychology"
 header:
   overlay_image: walking.png
   overlay_filter: 0.5
