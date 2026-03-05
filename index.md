@@ -1,15 +1,11 @@
 ---
 layout: home
-title: TACO Lab
+title: HOME
 ---
 
-# TACO Lab
-**Thinking and Acting in Context**
+# Thinking and Acting in Context
 
-Northumbria University | School of Psychology
-
-The TACO Lab studies how thinking and action are shaped by context.  
-We investigate how physical, social, and psychological environments influence cognition, perception, and behaviour.
+Welcome to the TACO Lab at Northumbria University (School of Psychology).
 
 Our research sits at the intersection of:
 
