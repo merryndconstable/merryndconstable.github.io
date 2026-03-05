@@ -4,7 +4,7 @@ title: "Thinking and Acting in Context"
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  excerpt: "Northumbria University | School of Psychology"
+  excerpt: "Northumbria University · School of Psychology"
 ---
 
 
