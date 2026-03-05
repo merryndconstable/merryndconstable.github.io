@@ -3,34 +3,21 @@ layout: splash
 title: ""
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
-  caption: "TACO Lab"
+  overlay_filter: "0.35"
+  caption: "Northumbria University | School of Psychology"
 ---
 
-# Thinking and Acting in Context
+# TACO Lab
 
-Welcome to the TACO Lab at Northumbria University (School of Psychology).
+**Thinking and Acting in Context** (TACO) Lab is a research group at Northumbria University investigating how context shapes cognition and action.
 
-Our research sits at the intersection of:
+## Research Themes
 
-- Situated cognition
+- Situated cognition and context effects
 - Psychological ownership
-- Joint action
-- Applied cognitive psychology
-
----
-
-## Our Values
-
-- Curiosity
-- Rigour
-- Inclusivity
-- Kindness
-- Honesty
-
----
+- Joint action and coordination
+- Research collaboration and team science
 
 ## Join the Lab
 
-We welcome students interested in cognition, collaboration, and real-world research.  
-Information about opportunities can be found on the **Join the Lab** page.
+Interested in PhD, MSc, UG projects, or collaboration? Visit **Join the Lab**.
