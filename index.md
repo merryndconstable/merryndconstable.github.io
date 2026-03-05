@@ -6,8 +6,17 @@ header:
   overlay_filter: 0.5
 ---
 
-The **TACO Lab** studies how thinking and action are shaped by context.
+The **TACO Lab** investigates how physical, social, and psychological environments shape cognition and action. By understanding how context shapes the mind and behaviour, we can better design the environments in which people think, decide, and work together.
 
+---
 
+## Research Themes
 
-The **TACO Lab** studies how thinking and action are shaped by context. test
+### Psychological Ownership
+How people experience control, responsibility, and “mine-ness” over spaces, objects, and ideas — and how that shapes attention, motivation, and behaviour.
+
+### Joint Action
+How people coordinate perception, decision making, and movement when acting together — from shared tasks to real-world collaboration.
+
+### Cognition in Context
+How environments (physical, social, and psychological) calibrate what people perceive, think, and do — with an emphasis on translation to everyday settings.
