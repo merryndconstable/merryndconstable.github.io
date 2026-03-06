@@ -7,7 +7,7 @@ layout: single
 {: .notice--primary}
 Research in the lab focuses on **self-referential cognition, psychological ownership, attention, and joint action**, with an emphasis on understanding how cognitive processes operate in real-world social and interactive contexts.
 
-I am always interested in working with motivated students and collaborators who are curious about how people understand themselves, their actions, and their relationships with others.
+The lab welcomes motivated students and collaborators who are interested in understanding how people think about themselves, their actions, and their relationships with others.
 
 Projects in the lab typically involve behavioural experiments designed to investigate cognition during social interaction. We are particularly interested in how cognition unfolds during real-world action and interaction, and in methods that capture behaviour dynamically, including **motion capture and pose estimation**.
 
@@ -30,6 +30,17 @@ When contacting me, please include:
 
 ## PhD Students
 
+{: .notice--success}
+**Currently recruiting:** I am currently seeking a **UK-based (Home) PhD candidate** for a fully funded interdisciplinary project:
+
+**Transforming SEND Provision Through Technology: A Participatory Design Approach to Developing an Intelligent System for Intervention Management and Professional Learning**
+
+This project brings together psychology, education, and technology design to develop an intelligent system that supports evidence-based intervention management and reduces administrative burden so staff can spend more time in the classroom.
+
+[More details and how to apply](https://tinyurl.com/TransformSEND)
+
+---
+
 I supervise PhD students working on topics related to the lab’s research themes, including psychological ownership, self-referential cognition, attention, joint action, and social cognition.
 
 I am happy to support strong applicants applying for funded PhD programmes or doctoral training partnerships. If you are interested in applying, please contact me in **late summer or early autumn (July–October)** with:
@@ -47,7 +58,7 @@ I supervise undergraduate and MSc dissertation projects in areas related to the 
 
 Students interested in working with me should consult the departmental project allocation system when dissertation topics are released.
 
-Some degree programmes also include coursework internships that provide experience working in a research lab. Students develop skills in experimental design, data collection, and analysis while contributing to ongoing research in the lab. If you would like more information about these opportunities, please feel free to get in touch.
+Some degree programmes also include coursework internships that provide experience working in a research lab. Students develop skills in experimental design, data collection, and analysis while contributing to ongoing research in the lab. Further details about these opportunities are available on request.
 
 
 ## Collaborations and Visiting Researchers
