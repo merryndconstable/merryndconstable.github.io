@@ -22,10 +22,20 @@ def safe_get(d, *keys, default=""):
 
 def format_authors(contributors):
     authors = []
+
     for c in contributors:
-        credit_name = safe_get(c, "credit-name", "value", default="")
-        if credit_name:
-            authors.append(credit_name)
+        name = c.get("credit-name", {}).get("value", "")
+
+        if not name:
+            continue
+
+        parts = name.split()
+
+        last = parts[-1]
+        initials = "".join([p[0] + "." for p in parts[:-1]])
+
+        authors.append(f"{last}, {initials}")
+
     return ", ".join(authors)
 
 
