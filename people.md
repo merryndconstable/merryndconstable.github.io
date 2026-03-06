@@ -7,7 +7,11 @@ author_profile: false
 
 ## Lab Director
 
-<img src="/images/merryn.jpg" alt="Merryn Constable" width="220">
+<div style="display:flex; align-items:flex-start; gap:28px;">
+
+<img src="/images/merryn.jpg" alt="Merryn Constable" width="180">
+
+<div>
 
 ### Merryn Constable  
 Assistant Professor of Psychology  
@@ -21,22 +25,31 @@ Alongside my core research programme, I am passionate about working with the **N
 
 **Favourite taco:** Tacos dorados
 
+</div>
+</div>
+
 ---
 
 ## PhD Students
 
-### Joseph Ventress
+### Joseph Ventress  
+PhD Student
+
 **Project:** Using theories of joint action to understand and predict pedestrian yielding behaviours in public spaces.
 
 This interdisciplinary project combines motion-capture experiments with analysis of large-scale pedestrian datasets to model how individuals negotiate shared spaces.
+
+**Favourite taco:** Coming soon
 
 ---
 
 ## Affiliated Doctoral Researchers
 
-### Charlie Edge
-Newcastle Business School
+### Charlie Edge  
+PhD Researcher, Newcastle Business School
 
 **Project:** Urban Greenspace Management: A Sustainable Marketing Framework.
 
 Co-supervised doctoral research examining how psychological ownership and social identity shape community engagement in greenspace management.
+
+**Favourite taco:** Coming soon
