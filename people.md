@@ -7,11 +7,7 @@ author_profile: false
 
 ## Lab Director
 
-<div style="display:flex; align-items:flex-start; gap:28px;">
-
-<img src="/images/merryn.jpg" alt="Merryn Constable" width="180">
-
-<div>
+<img src="/images/merryn.jpg" alt="Merryn Constable" width="170" style="float:left; margin-right:20px; margin-bottom:10px;">
 
 ### Merryn Constable  
 Assistant Professor of Psychology  
@@ -25,8 +21,7 @@ Alongside my core research programme, I am passionate about working with the **N
 
 **Favourite taco:** Tacos dorados
 
-</div>
-</div>
+<br style="clear:both;">
 
 ---
 
