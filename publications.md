@@ -3,7 +3,7 @@ layout: single
 title: "Publications"
 permalink: /publications/
 ---
-test
+
 {% assign pubs_by_year = site.data.publications | group_by: "year" %}
 
 {% for year_group in pubs_by_year %}
