@@ -1,18 +1,16 @@
 ---
-layout: page
-title: Join the Lab
+title: "Join the Lab"
 permalink: /join/
+layout: single
 ---
 
-## Opportunities
+{: .notice--primary}
+Research in the lab focuses on **self-referential cognition, psychological ownership, attention, and joint action**, with an emphasis on understanding how cognitive processes operate in real-world social and interactive contexts.
 
-The TACO Lab welcomes students interested in cognition, context, and collaboration.
+I am always interested in working with motivated students and collaborators who are curious about how people understand themselves, their actions, and their relationships with others.
 
-### PhD Students
-Prospective PhD students should contact Dr Merryn Constable with a short research proposal.
+Projects in the lab typically involve behavioural experiments designed to investigate cognition during social interaction. We are particularly interested in how cognition unfolds during real-world action and interaction, and in methods that capture behaviour dynamically, including **motion capture and pose estimation**.
 
-### Masters and Undergraduate Projects
-Students in the School of Psychology may have opportunities to conduct research projects within the lab.
+Alongside basic research, the lab increasingly works in **interdisciplinary and translational domains** that apply cognitive theory to real-world challenges. Current collaborations span areas such as healthcare professions education, primary school education, organ donation and transplantation, and urban design.
 
-### Collaborations
-We are always open to collaboration with researchers working on related topics.
+If you are interested in pursuing research in these areas, there may be opportunities to work together at **undergraduate, postgraduate, or postdoctoral level**.
