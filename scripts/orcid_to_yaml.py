@@ -29,10 +29,21 @@ def format_authors(contributors):
         if not name:
             continue
 
+        name = name.strip()
+
+        # If ORCID already returns "Lastname, Initials"
+        if "," in name:
+            authors.append(name)
+            continue
+
         parts = name.split()
 
+        if len(parts) == 1:
+            authors.append(parts[0])
+            continue
+
         last = parts[-1]
-        initials = "".join([p[0] + "." for p in parts[:-1]])
+        initials = " ".join([p[0] + "." for p in parts[:-1]])
 
         authors.append(f"{last}, {initials}")
 
