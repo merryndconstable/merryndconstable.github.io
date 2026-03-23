@@ -6,58 +6,73 @@ html {
   scroll-behavior: smooth;
 }
 
-/* Tiles */
-.tiles {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 24px;
-  margin-top: 1.5em;
-  margin-bottom: 2em;
-}
-
-.tile {
-  display: block;
-  padding: 24px;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  text-decoration: none;
-  color: inherit;
-  background: #ffffff;
-  transition: all 0.2s ease;
-}
-
-.tile:hover {
-  transform: translateY(-4px);
-  border-color: #999;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-}
-
-.tile h3 {
-  margin-top: 0;
-  margin-bottom: 0.5em;
-}
-
-.tile p {
-  margin: 0;
-  font-size: 0.95em;
-  line-height: 1.5;
-}
-
-/* Wide single-page layout */
+/* Wider single pages */
 @media (min-width: 1024px) {
   .layout--single.wide .page {
+    float: none !important;
     width: 100% !important;
-    max-width: none !important;
+    max-width: 1200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
     padding-right: 0 !important;
   }
 
   .layout--single.wide .page__inner-wrap {
+    width: 100% !important;
     max-width: 1200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
 
   .layout--single.wide .page__content {
     float: none !important;
     width: 100% !important;
-    max-width: none !important;
+    max-width: 100% !important;
+  }
+}
+
+/* Tiles */
+.tiles {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)) !important;
+  gap: 24px !important;
+  margin-top: 1.5em;
+  margin-bottom: 2em;
+}
+
+.tiles .tile {
+  display: block !important;
+  width: 100% !important;
+  padding: 24px !important;
+  border: 1px solid #e0e0e0 !important;
+  border-radius: 8px !important;
+  text-decoration: none !important;
+  color: inherit !important;
+  background: #ffffff !important;
+  box-sizing: border-box !important;
+  transition: all 0.2s ease !important;
+}
+
+.tiles .tile:hover {
+  transform: translateY(-4px);
+  border-color: #999 !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.tiles .tile h3 {
+  margin-top: 0 !important;
+  margin-bottom: 0.5em !important;
+}
+
+.tiles .tile p {
+  margin: 0 !important;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+/* Mobile fallback */
+@media (max-width: 600px) {
+  .tiles {
+    grid-template-columns: 1fr !important;
   }
 }
