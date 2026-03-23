@@ -54,11 +54,16 @@ html {
 }
 
 @media (min-width: 1024px) {
-  body.layout--single .page__inner-wrap {
+  body.layout--single .page,
+  body.layout--single .archive {
     max-width: 1400px !important;
   }
 
-  body.layout--single .page__content {
+  body.layout--single .page__inner-wrap {
     max-width: 1200px !important;
+  }
+
+  body.layout--single .page__content {
+    max-width: 1100px !important;
   }
 }
