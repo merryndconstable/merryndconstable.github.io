@@ -4,7 +4,7 @@ permalink: /research/
 layout: single
 ---
 
-The TACO Lab investigates how cognition unfolds in real-world environments. Our research examines how experiences of **ownership, control, and interaction** shape perception, action, and coordination.
+The TACO Lab investigates how cognition unfolds in real-world environments. Our research examines how experiences of **self and other** shape perception, action, and coordination.
 
 We take an explicitly **interdisciplinary approach**, integrating perspectives from cognitive psychology, social cognition, action science, and applied research. Across projects, cognition is treated not as an isolated internal process, but as something that emerges through ongoing interaction with **physical, social, technological, and institutional environments**.
 
@@ -103,7 +103,6 @@ Our research combines experimental precision with approaches that capture cognit
 
 **Core methods**
 - Behavioural experiments  
-- Reaction time and accuracy measures  
 - Motion tracking and kinematic analysis  
 - Video-based and pose estimation methods  
 - Computational and quantitative analysis  
