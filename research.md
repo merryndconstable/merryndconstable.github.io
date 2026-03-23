@@ -2,8 +2,9 @@
 title: "Research"
 permalink: /research/
 layout: single
+classes: wide
+author_profile: false
 ---
-
 The TACO Lab investigates how cognition unfolds in real-world environments. Our research examines how experiences of **self and other** shape perception, action, and coordination.
 
 We take an explicitly **interdisciplinary approach**, integrating perspectives from cognitive psychology, social cognition, action science, and applied research. Across projects, cognition is treated not as an isolated internal process, but as something that emerges through ongoing interaction with **physical, social, technological, and institutional environments**.
