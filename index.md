@@ -14,25 +14,19 @@ The **TACO Lab** investigates how physical, social, and psychological environmen
 
 <div class="tiles">
 
-  <a href="/research/psychological-ownership/" class="tile">
+  <a href="/research/#psychological-ownership" class="tile">
     <h3>Psychological Ownership</h3>
-    <p>
-      How people experience control, responsibility, and “mine-ness” over spaces, objects, and ideas — and how that shapes attention, motivation, and behaviour.
-    </p>
+    <p>How “mine-ness” shapes perception, attention, action, and affect.</p>
   </a>
 
-  <a href="/research/joint-action/" class="tile">
+  <a href="/research/#joint-action" class="tile">
     <h3>Joint Action</h3>
-    <p>
-      How people coordinate perception, decision making, and movement when acting together — from shared tasks to real-world collaboration.
-    </p>
+    <p>How people coordinate perception, decisions, and movement during shared action.</p>
   </a>
 
-  <a href="/research/cognition-in-context/" class="tile">
+  <a href="/research/#cognition-in-context" class="tile">
     <h3>Cognition in Context</h3>
-    <p>
-      How environments (physical, social, and psychological) calibrate what people perceive, think, and do — with an emphasis on translation to everyday settings.
-    </p>
+    <p>How environments calibrate cognition and behaviour in real-world settings.</p>
   </a>
 
 </div>
