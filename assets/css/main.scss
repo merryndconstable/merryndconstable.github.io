@@ -1,0 +1,47 @@
+.tiles {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-top: 1.5em;
+}
+
+.tile {
+  display: block;
+  padding: 24px;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  text-decoration: none;
+  color: inherit;
+  background: #ffffff;
+  transition: all 0.2s ease;
+}
+
+.tile:hover {
+  transform: translateY(-4px);
+  border-color: #999;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+.tile h3 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+.tile p {
+  margin: 0;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .tiles {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .tiles {
+    grid-template-columns: 1fr;
+  }
+}
