@@ -55,10 +55,10 @@ html {
 
 @media (min-width: 1024px) {
   body.layout--single .page__inner-wrap {
-    max-width: 1000px;
+    max-width: 1400px !important;
   }
 
   body.layout--single .page__content {
-    max-width: 950px;
+    max-width: 1200px !important;
   }
 }
