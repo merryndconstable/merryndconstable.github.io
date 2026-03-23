@@ -54,16 +54,25 @@ html {
 }
 
 @media (min-width: 1024px) {
-  body.layout--single .page,
-  body.layout--single .archive {
-    max-width: 1400px !important;
+  body.layout--single .initial-content,
+  body.layout--single #main {
+    max-width: 1600px !important;
+  }
+
+  body.layout--single .page {
+    float: none !important;
+    width: 100% !important;
+    max-width: 1200px !important;
+    padding-right: 0 !important;
   }
 
   body.layout--single .page__inner-wrap {
+    width: 100% !important;
     max-width: 1200px !important;
   }
 
   body.layout--single .page__content {
-    max-width: 1100px !important;
+    width: 100% !important;
+    max-width: 1200px !important;
   }
 }
