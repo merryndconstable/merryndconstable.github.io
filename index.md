@@ -10,8 +10,6 @@ The **TACO Lab** investigates how physical, social, and psychological environmen
 
 ---
 
----
-
 ## Research Themes
 
 <div class="tiles">
