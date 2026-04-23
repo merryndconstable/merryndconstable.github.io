@@ -37,9 +37,9 @@ We take an interdisciplinary approach, integrating perspectives from cognitive p
 ## Psychological Ownership
 {: #psychological-ownership}
 
-Psychological ownership refers to the experience that something is “mine”. Our work examines how this experience shapes **perception, attention, action, and emotion**, influencing how people interact with objects, spaces, and ideas.
+Psychological ownership refers to the experience that something is “mine”. We study how this experience shapes perception, attention, action, and emotion, influencing how people interact with objects, spaces, and ideas.
 
-We conceptualise ownership as a **dynamic cognitive state** that emerges through interaction and guides behaviour in real time. This research bridges cognitive, social, and action-based approaches, asking how ownership changes what people prioritise, how they remember, and how they respond.
+We treat ownership as something that emerges through interaction and guides behaviour. Our work examines how it shapes what people prioritise, remember, and do.
 
 **Example directions**
 - Ownership and visuomotor processing  
@@ -59,9 +59,9 @@ We conceptualise ownership as a **dynamic cognitive state** that emerges through
 ## Joint Action
 {: #joint-action}
 
-Joint action research examines how people coordinate perception, decision making, and movement when acting together. Our work focuses on how **social and contextual factors shape coordination in real time**, and how internal states influence collaborative behaviour.
+Joint action research focuses on how people coordinate perception, decision making, and movement when acting together. We study how social and contextual factors shape coordination, and how internal states influence collaborative behaviour.
 
-A central question in this research is how people adapt their actions to others: when they facilitate, when they align, and how self–other dynamics shape shared performance. This work connects basic questions about coordinated action with broader issues of interaction, collaboration, and real-world teamwork.
+We examine how people adapt to others, including when they facilitate, when they align, and how self–other dynamics shape shared performance. We also examine how these processes scale from controlled tasks to real-world interaction and teamwork.
 
 **Example directions**
 - Coordination and facilitation in shared tasks  
@@ -79,9 +79,9 @@ A central question in this research is how people adapt their actions to others:
 ## Cognition in Context
 {: #cognition-in-context}
 
-This research examines how cognition is shaped by the environments in which it operates. We investigate how **physical, social, technological, and institutional contexts** influence what people perceive, think, and do.
+This research focuses on how cognition is shaped by the environments in which it operates. We study how physical, social, technological, and institutional contexts influence what people perceive, think, and do.
 
-A central aim is to translate cognitive theory into real-world settings, including **education, healthcare, human–technology interaction, and urban environments**. This work extends laboratory findings into applied and interdisciplinary domains, asking how environments can be designed to better support attention, action, learning, and collaboration.
+We translate cognitive theory into real-world settings, including education, healthcare, human–technology interaction, and urban environments. This work extends laboratory findings into applied and interdisciplinary contexts, examining how environments can be designed to better support attention, action, learning, and collaboration.
 
 **Example directions**
 - Psychological ownership of space and place  
@@ -98,27 +98,27 @@ A central aim is to translate cognitive theory into real-world settings, includi
 
 ## Methods
 
-Our research combines experimental precision with approaches that capture cognition during ongoing action, interaction, and engagement with real-world contexts.
+Our research combines controlled experimental methods with approaches that capture cognition during ongoing action and interaction in real-world contexts.
 
 **Core methods**
 - Behavioural experiments  
 - Motion tracking and kinematic analysis  
-- Video-based and pose estimation methods  
-- Computational and quantitative analysis  
+- Video analysis and pose estimation methods  
+- Computational and quantitative modelling  
 
-**Qualitative and mixed-method approaches**
+**Qualitative and field-based approaches**
 - Interviews and qualitative analysis  
 - Scale development and validation  
 - Mixed-method designs  
-- Field-based and interdisciplinary research  
+- Field-based interdisciplinary research  
 
-We use these approaches to study cognition across controlled laboratory settings and more naturalistic environments, allowing us to connect mechanistic explanation with applied relevance.
+We study cognition across laboratory and naturalistic settings, linking mechanistic explanation to real-world application.
 
 ---
 
 ## Interdisciplinary and Applied Work
 
-A defining feature of the lab is the integration of **cognitive psychology with social interaction research, action science, and applied domains including education, healthcare, urban design, and human–technology interaction**.
+A defining feature of the lab is the integration of cognitive psychology into applied domains such as education, healthcare, urban design, and human–technology interaction.
 
 We collaborate across disciplines to examine how cognitive processes operate in real-world systems, and how they can inform the design of environments that support effective thinking, action, and interaction.
 
@@ -129,4 +129,4 @@ Current and recent areas include:
 - Urban and environmental design  
 - Human–technology and AI-related contexts  
 
-This work aims to bridge **mechanistic understanding and real-world impact**, ensuring that cognitive theory is both explanatory and practically relevant.
+This work links mechanistic understanding with real-world application, ensuring that cognitive theory is both explanatory and practically relevant.
