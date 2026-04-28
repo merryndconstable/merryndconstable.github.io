@@ -30,11 +30,13 @@ Alongside my core research programme, I work with the NHS Organ Donation and Tra
 ### Joseph Ventress  
 PhD Student
 
-**Project:** Using theories of joint action to understand and predict pedestrian yielding behaviours in public spaces.
+**Project:** I’m interested in how pedestrians coordinate with one other in everyday life. Specifically, I study what might make one person yield their space to another, from a cooperation and joint action perspective. I use kinematic analysis to capture subtle changes in movements and how these might reflective cognitive states and intent.
 
-This interdisciplinary project combines motion-capture experiments with analysis of large-scale pedestrian datasets to model how individuals negotiate shared spaces.
+At population level, I analyse large datasets and at the individual level, I use motion capture methods to precisely measure how different parts of the body move when responding to changing stimuli. I also conduct more traditional lab-based work focussed on how observers interpret these kinematic changes. My work primarily informs how we predict pedestrian movement, and how this informs our understand of how people use urban spaces.
 
-**Favourite taco:** Coming soon
+More broadly, I am interested in the technology we use to study implicit processes such as action and attention.
+
+**Favourite taco:** Birria / Carne Asada
 
 ---
 
