@@ -27,7 +27,7 @@ Alongside my core research programme, I work with the NHS Organ Donation and Tra
 
 ## PhD Students
 
-<img src="/images/joe.jpg" alt="Joe Ventress" width="170" style="float:left; margin-right:20px; margin-bottom:10px;">
+<img src="/images/joe2.jpg" alt="Joe Ventress" width="170" style="float:left; margin-right:20px; margin-bottom:10px;">
 
 ### Joseph Ventress  
 PhD Student
