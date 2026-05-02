@@ -27,8 +27,12 @@ Alongside my core research programme, I work with the NHS Organ Donation and Tra
 
 ## PhD Students
 
+<img src="/images/joe.png" alt="Joe Ventress" width="170" style="float:left; margin-right:20px; margin-bottom:10px;">
+
 ### Joseph Ventress  
 PhD Student
+
+<br style="clear:both;">
 
 **Project:** I’m interested in how pedestrians coordinate with one other in everyday life. Specifically, I study what might make one person yield their space to another, from a cooperation and joint action perspective. I use kinematic analysis to capture subtle changes in movements and how these might reflective cognitive states and intent.
 
