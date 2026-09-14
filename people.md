@@ -46,6 +46,8 @@ More broadly, I am interested in the technology we use to study implicit process
 
 ## Affiliated Doctoral Researchers
 
+<img src="/images/Charlie.jpg" alt="Charlie Edge" width="170" style="float:left; margin-right:20px; margin-bottom:10px;">
+
 ### Charlie Edge  
 PhD Researcher, Newcastle Business School
 
