@@ -51,6 +51,8 @@ More broadly, I am interested in the technology we use to study implicit process
 ### Charlie Edge  
 PhD Researcher, Newcastle Business School
 
+<br style="clear:both;">
+
 **Project:** I am interested in the ways that people can be motivated to support urban greenspace management. My PhD looks at sustainable marketing, how marketing can be used to benefit people and the planet whilst also allowing an organisation to be financially viable. I am particularly interested in the role of social identity, psychological ownership and EDI in encouraging people to support urban greenspaces, be this through volunteering, donations or spreading positive word of mouth.
 
 Alongside my PhD I have undertaken research looking at the role of psychological ownership and social norms in motivating student volunteering in urban greenspaces. This has considered the influences that students consider when making decisions about volunteering and how feeling an emotional attachment to a greenspace can act as a motivator. This research can be applied to sustainable marketing targeting students so that both students and society can benefit from student volunteering. 
