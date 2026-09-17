@@ -53,7 +53,7 @@ I’m interested in working culture and how improving this can significantly imp
 
 Prior to conducting this research, I spent 17 years specialising in the digital communication supporting large organisations, charities and entrepreneurs. Passionate about making working life work for everyone, I have also campaigned for, and championed, parental working rights and pay equality.
 
-**Favourite taco:** Taco de Camarón
+**Favourite taco:** Tacos de Camarón
 
 <img src="/images/Rachael.jpg" alt="Rachael Smith" width="170" style="float:left; margin-right:20px; margin-bottom:10px;">
 
@@ -68,7 +68,8 @@ Before beginning my PhD, I worked as a teacher for nearly ten years, with the la
 
 Alongside my PhD, I am working with a local charity to research the history of specialist education in the North East. More broadly, I am interested in how neurodivergent children and staff experience the education system. 
 
-**Favourite taco:** Tacos de Pescado 
+**Favourite taco:** Tacos de Pescados
+
 ---
 
 ## Affiliated Doctoral Researchers
