@@ -81,10 +81,22 @@ PhD Researcher, Newcastle Business School
 
 <br style="clear:both;">
 
-**Project:** I am interested in the ways that people can be motivated to support urban greenspace management. My PhD looks at sustainable marketing, how marketing can be used to benefit people and the planet whilst also allowing an organisation to be financially viable. I am particularly interested in the role of social identity, psychological ownership and EDI in encouraging people to support urban greenspaces, be this through volunteering, donations or spreading positive word of mouth.
+I am interested in the ways that people can be motivated to support urban greenspace management. My PhD looks at sustainable marketing, how marketing can be used to benefit people and the planet whilst also allowing an organisation to be financially viable. I am particularly interested in the role of social identity, psychological ownership and EDI in encouraging people to support urban greenspaces, be this through volunteering, donations or spreading positive word of mouth.
 
 Alongside my PhD I have undertaken research looking at the role of psychological ownership and social norms in motivating student volunteering in urban greenspaces. This has considered the influences that students consider when making decisions about volunteering and how feeling an emotional attachment to a greenspace can act as a motivator. This research can be applied to sustainable marketing targeting students so that both students and society can benefit from student volunteering. 
 
 In addition to this research, I have contributed to a number of projects looking at women’s feelings of safety offline and online. 
 
 **Favourite taco:** Roast vegetable and avocado
+
+<img src="/images/Charlie.jpg" alt="Charlie Edge" width="170" style="float:left; margin-right:20px; margin-bottom:10px;">
+
+### Kate Nelson
+PhD Researcher, School of Humanities and Social Sciences
+
+<br style="clear:both;">
+
+I study human and non-human cognition, with a particular interest in non-human primates. My research focuses on the evolution of pragmatic competence and Theory of Mind, exploring how these capacities influence language (and vice versa). I am especially interested in the implications of these questions across disciplines, particularly in relation to ethics and animal studies. My work primarily uses a comparative approach, examining similarities and differences between humans and non-human primates. A key area of interest is how the distinction between human and non-human cognition is defined across different fields, and what these definitions reveal about cognition, communication, and evolution. 
+
+**Favourite taco:** Beef and cheese
+
