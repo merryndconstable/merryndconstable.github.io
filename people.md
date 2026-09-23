@@ -89,7 +89,7 @@ In addition to this research, I have contributed to a number of projects looking
 
 **Favourite taco:** Roast vegetable and avocado
 
-<img src="/images/Charlie.jpg" alt="Charlie Edge" width="170" style="float:left; margin-right:20px; margin-bottom:10px;">
+
 
 ### Kate Nelson
 PhD Researcher, School of Humanities and Social Sciences
