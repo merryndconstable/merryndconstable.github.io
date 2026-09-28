@@ -99,7 +99,7 @@ I study human and non-human cognition, with a particular interest in non-human p
 
 **Favourite taco:** Beef and cheese
 
-<img src="/images/Faith.jpg" alt="Faith Watson" width="170" style="float:left; margin-right:20px; margin-bottom:10px;">
+<img src="/images/Faith.jpeg" alt="Faith Watson" width="170" style="float:left; margin-right:20px; margin-bottom:10px;">
 
 ### Faith Watson
 PhD Researcher, School of Psychology
