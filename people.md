@@ -95,8 +95,20 @@ In addition to this research, I have contributed to a number of projects looking
 PhD Researcher, School of Humanities and Social Sciences
 
 <br style="clear:both;">
-
 I study human and non-human cognition, with a particular interest in non-human primates. My research focuses on the evolution of pragmatic competence and Theory of Mind, exploring how these capacities influence language (and vice versa). I am especially interested in the implications of these questions across disciplines, particularly in relation to ethics and animal studies. My work primarily uses a comparative approach, examining similarities and differences between humans and non-human primates. A key area of interest is how the distinction between human and non-human cognition is defined across different fields, and what these definitions reveal about cognition, communication, and evolution. 
 
 **Favourite taco:** Beef and cheese
 
+<img src="/images/Faith.jpg" alt="Faith Watson" width="170" style="float:left; margin-right:20px; margin-bottom:10px;">
+
+### Faith Watson
+PhD Researcher, School of Psychology
+
+<br style="clear:both;">
+I am interested in the mind of our pets and the unique pet-human bond, paired with the level of communication and understanding that comes within that. I aim to explore the concept of recognising intention and the success of this, even with differences in methods of expression, with exploration into the deeper levels of social cognitive capabilities across the species divide. 
+
+I have previously investigated the role of domestication and if our selective breeding for the desirable pedomorphic traits, larger heads and eyes being an example more commonly observed in modern day dog breeds like brachycephalic dogs, have hindered their ability to communicate to both us and conspecifics. 
+
+Alongside my PhD research, I volunteer with the Guide Dogs organisation in both raising funds and awareness. Additionally, this work enables me to find out more about the incredible work the dogs can do and the independence they can give to people with sight loss. 
+
+**Favourite taco:** Carne Asada Taco/Carnitas Taco 
